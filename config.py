@@ -25,7 +25,7 @@ ADS_MODE = getenv("ADS_MODE", None)
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID",7929802632))
+OWNER_ID = int(getenv("OWNER_ID",7903596664))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
